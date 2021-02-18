@@ -1,0 +1,24 @@
+body{
+  background-color: #FFFAF0;
+  font-family: "Times", Arial, sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+h1{
+  text-align: center;
+  font-size: 3em;
+}
+.flex-container
+{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+footer{
+  float: right;
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-bottom: 150px;
+  font-size: 18px;
+}
