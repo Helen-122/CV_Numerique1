@@ -1,9 +1,16 @@
+/* feuille de style de la page "formation" */
 body{
   background-color: #FFFAF0;
   font-family: "Times", Arial, sans-serif;
   font-size: 20px;
   color: #000000;
 }
+h1{
+  font-size: 3em;
+}
 .bloc_text{
+  text-align: center;
+}
+p{
   text-align: center;
 }

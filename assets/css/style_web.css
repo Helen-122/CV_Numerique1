@@ -1,0 +1,15 @@
+/* feuille de style de la page "web"*/
+body{
+  background-color: #FFFAF0;
+  font-family: "Times", Arial, sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+}
+footer{
+  text-align: center;
+}

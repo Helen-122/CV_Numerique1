@@ -1,14 +1,10 @@
+/* feuille de style de la page "contact"*/
 body{
   background-color: #FFFAF0;
   font-family: "Times", Arial, sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   color: #000000;
 }
-.container{
-  display: flex;
-  justify-content: center;
-  margin-top: 200px;
-}
-footer{
+.bloc_text{
   text-align: center;
 }

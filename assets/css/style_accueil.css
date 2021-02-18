@@ -1,0 +1,28 @@
+/* feuille de style de la page "accueil"*/
+body
+{
+  background-color: #FFFAF0;
+  font-family: "Cochin", Arial, sans-serif;
+  color: #000000;
+}
+h1, h2{
+  text-align: center;
+}
+h1{
+  font-size: 4em;
+}
+.container
+{
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
+.photo_formation
+{
+  width: 50px;
+  height: 50px;
+}
+img
+{
+  border: solid 4px #000000;
+}
